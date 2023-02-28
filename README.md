@@ -15,17 +15,13 @@ Always learning the best practices to improve solutions as a professional.
 
 I really like being able to understand the problems to give an optimal solution.
   
-📄&nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1gHHMgX7RX2PeyNB-lVdXBsbEWW0yVABC/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
-  
 </p>
 </div>
 <hr>
 
 <h3 align="left">🤝🏻 &nbsp;Connect with Me</h3> 
 <p align="center">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="JuanParraIV" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/juan-jose-bianchi/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="JuanParraIV" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/juanb_90" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="juanmarioparra" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/patrick-carlos-da-gra%C3%A7a-284049239/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
 

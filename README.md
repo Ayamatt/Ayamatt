@@ -42,14 +42,6 @@ I really enjoy being able to find the best solutions to a given problem through 
 
 <h3 align="left">🛠 &nbsp;Featured Skills</h3>
  
-#### Operating System:
-[![UBUNTU](https://img.shields.io/badge/UBUNTU-EB6F1F?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![CENT OS](https://img.shields.io/badge/CENTOS-1F4F8C?style=for-the-badge&logo=centOs&logoColor=white)](https://www.centos.org/) [![DEBIAN](https://img.shields.io/badge/DEBIAN-A3002E?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/index.es.html) [![MICROSOFT_WINDOW SERVER](https://img.shields.io/badge/MICROSOFT_WINDOW_SERVER-0067B8?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/es-es/windows-server)
-
-#### Virtualization:
-[![VIRTUAL BOX](https://img.shields.io/badge/VIRTUAL_BOX-173761?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/) [![KVM](https://img.shields.io/badge/KVM-CC0000?style=for-the-badge&logo=kvm&logoColor=white)](https://www.linux-kvm.org/page/Main_Page) 
-
-#### Network Services:
-[![APACHE](https://img.shields.io/badge/APACHE-D22129?style=for-the-badge&logo=apache&logoColor=white)](https://www.apache.org/) [![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/) [![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=ssh&logoColor=white)](https://www.ssh.com/academy/ssh) [![DHCP](https://img.shields.io/badge/DHCP-000000?style=for-the-badge&logo=ssh&logoColor=white)](https://www.isc.org/dhcp/) [![DNS](https://img.shields.io/badge/DNS-000000?style=for-the-badge&logo=dns&logoColor=white)](https://developers.google.com/speed/public-dns) [![FTP](https://img.shields.io/badge/FTP-000000?style=for-the-badge&logo=ftp&logoColor=white)](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
 
 #### Databases:
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)

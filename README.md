@@ -28,7 +28,7 @@ I really like being able to understand the problems to give an optimal solution.
 <h3 align="left">⚙️ &nbsp;GitHub Analytics</h3>
 <p align="center">
 <a href="https://github.com/Ayamatt">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ayamatt1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ayamatt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ayamatt&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>

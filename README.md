@@ -9,9 +9,9 @@
 <img width="40%" align="right" alt="Github" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
 <br>
 <p aligh="justify">
-Full Stack Developer.
+Full Stack Developer, Back-End orientated.
 
-Always learning the best practices to improve solutions as a professional.
+Always learning the best practices and seeking challenges to improve as a professional.
 
 I really enjoy being able to find the best solutions to a given problem through an analytical view and an open mind.
   

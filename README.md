@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://camo.githubusercontent.com/bdd38b0c65d47c7cba62b60617adffedb3a48d1ac6e77501b990fffb1e52815c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333230302f312a4f463078454d6b5742762d36397a766d4e73365244512e676966" alt="cover" />
 </div>
 
-# **Hi there, I'm [Juan Jose Bianchi](https://www.linkedin.com/in/juan-jose-bianchi/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis"> 
+# **Hi there, I'm [Da Graça Carlos](https://www.linkedin.com/in/patrick-carlos-da-gra%C3%A7a-284049239/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis"> 
 
 ### 👨🏻‍💻 &nbsp;About Me
 <div>
@@ -13,11 +13,7 @@ Full Stack Developer.
 
 Always learning the best practices to improve solutions as a professional.
 
-He really enjoys exploring new technologies, standards and methods that allow him to develop modern and powerful applications.
-
 I really like being able to understand the problems to give an optimal solution.
-
-Always willing to learn more, since curiosity is a quality that characterizes him since he always wants to know in a comprehensive, specific and general way about some software that he wants to develop.
   
 📄&nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1gHHMgX7RX2PeyNB-lVdXBsbEWW0yVABC/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
   

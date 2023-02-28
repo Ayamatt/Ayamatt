@@ -13,7 +13,7 @@ Full Stack Developer.
 
 Always learning the best practices to improve solutions as a professional.
 
-I really like being able to understand the problems to give an optimal solution.
+I really enjoy being able to find the best solutions to a given problem through an analytical view and an open mind.
   
 </p>
 </div>
